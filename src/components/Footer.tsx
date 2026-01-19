@@ -36,9 +36,9 @@ const Footer = () => {
               
               <div>
                  <img
-            src="/public/urologo.png"
+            src="/urologo.png"
             alt="UR Logo"
-            width={200}
+            width={150}
             height={200}
             className="object-contain"
           />
